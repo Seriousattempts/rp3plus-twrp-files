@@ -15,6 +15,6 @@ Made the script executable
 Ran the Script in TWRP's terminal
 - sh /external_sd/backup1sd.sh
 
-backupsd1 and backupsd2 are differnt in the fact that one tries to back up everything, while the other skips virtual disks from 3 file paths (/dev, /proc, /sys)
+backupsd1 and backupsd2 are different. backupsd2 tries to back up everything, while backupsd1 skips the virtual disks (3 file paths of /dev, /proc, /sys)
 
 # A lot of files and folders are missing because of that, along with Github's result of file amounts per upload along with file sizes.
