@@ -9,10 +9,14 @@
 5. Ran the following commands in Advanced > Terminal
 
 Fix Carriage Returns by removing Windows carriage returns:
-- sed -i 's/\r$//' /external_sd/backup2sd.sh
+- sed -i 's/\r$//' /external_sd/backup1sd.sh
 
 Made the script executable
-- chmod +x /external_sd/backup2sd.sh
+- chmod +x /external_sd/backup1sd.sh
 
 Ran the Script in TWRP's terminal
-- sh /external_sd/backup2sd.sh
+- sh /external_sd/backup1sd.sh
+
+backupsd1 and backupsd2 are differnt in the fact that one tries to back up everything, while the other skips virtual disks from 3 file paths (/dev, /proc, /sys)
+
+# A lot of files and folders are missing because of that, along with Github's results of file amounts per upload along with file sizes.
