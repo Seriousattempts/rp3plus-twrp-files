@@ -7,9 +7,12 @@
 
 
 5. Ran the following commands in Advanced > Terminal
+
 Fix Carriage Returns by removing Windows carriage returns:
 - sed -i 's/\r$//' /external_sd/backup2sd.sh
+
 Made the script executable
 - chmod +x /external_sd/backup2sd.sh
+
 Ran the Script in TWRP's terminal
 - sh /external_sd/backup2sd.sh
