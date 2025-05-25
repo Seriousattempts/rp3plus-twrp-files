@@ -1,0 +1,24 @@
+/default.prop - REASON: All copy methods failed (permission/access denied)
+/init - REASON: All copy methods failed (permission/access denied)
+/apex/com.android.art.release - REASON: Individual copy failed
+/config/sdcardfs - REASON: Individual copy failed
+/etc - REASON: All copy methods failed (permission/access denied)
+/mnt/sdcard - REASON: Individual copy failed
+/odm/etc - REASON: Individual copy failed
+/odm - REASON: All copy methods failed (permission/access denied)
+/sbin/sh - REASON: Individual copy failed
+/sbin/bash - REASON: Individual copy failed
+/sbin - REASON: All copy methods failed (permission/access denied)
+/system/etc - REASON: Individual copy failed
+/system/bin - REASON: Individual copy failed
+/system_ext/app - REASON: Individual copy failed
+/system_root/odm - REASON: Individual copy failed
+/system_root/system - REASON: Individual copy failed
+/system_root/init - REASON: Individual copy failed
+/system_root/bin - REASON: Individual copy failed
+/system_root/etc - REASON: Individual copy failed
+/system_root/default.prop - REASON: Individual copy failed
+/tmp/twadbfifo - REASON: Individual copy failed
+/vendor/bin - REASON: Individual copy failed
+/vendor/lib - REASON: Individual copy failed
+/vendor/lib64 - REASON: Individual copy failed
