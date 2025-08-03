@@ -10,11 +10,11 @@ Fix Carriage Returns by removing Windows carriage returns:
 - sed -i 's/\r$//' /external_sd/backup1sd.sh
 
 Made the script executable
-- chmod +x /external_sd/backup1sd.sh
+- chmod +x /external_sd/backup###.sh
 
 Ran the Script in TWRP's terminal
-- sh /external_sd/backup1sd.sh
+- sh /external_sd/backup##.sh
 
-backupsd1 and backupsd2 are different. backupsd2 tries to back up everything, while backupsd1 skips the virtual disks (3 file paths of /dev, /proc, /sys)
+backupsd1 and backupsd2 are different. backupsd2 tries to back up everything, while backupsd1 skips the virtual disks (3 file paths of /dev, /proc, /sys). backupsd3 and backupsd4 are different. 3 tried to take /dev, /proc and /sys which doesn't work. 4 exports into .txt files. The recreate_devices.sh file that is created gives you the device nodes that you can obtain from android's uevent, for android 11 at least.
 
 # A lot of files and folders are missing because of that, along with Github's result of file amounts per upload along with file sizes.
