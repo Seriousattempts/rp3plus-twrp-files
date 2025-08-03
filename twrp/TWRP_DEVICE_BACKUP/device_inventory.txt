@@ -1,0 +1,274 @@
+/dev/audio_pipe_bthal|character device|a 2e|600|u:object_r:audio_device:s0
+/dev/audio_pipe_effect|character device|a 30|600|u:object_r:audio_device:s0
+/dev/audio_pipe_recordproc|character device|a 2f|600|u:object_r:audio_device:s0
+/dev/audio_pipe_voice|character device|a 31|600|u:object_r:audio_device:s0
+/dev/snd/comprC0D11|character device|74 1c|660|u:object_r:audio_device:s0
+/dev/snd/comprC0D4|character device|74 1b|660|u:object_r:audio_device:s0
+/dev/snd/controlC0|character device|74 2|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D0c|character device|74 4|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D0p|character device|74 3|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D10c|character device|74 11|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D10p|character device|74 10|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D12p|character device|74 12|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D13c|character device|74 13|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D14c|character device|74 14|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D15p|character device|74 15|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D16c|character device|74 16|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D17c|character device|74 17|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D1c|character device|74 6|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D1p|character device|74 5|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D2c|character device|74 7|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D3p|character device|74 8|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D49c|character device|74 19|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D49p|character device|74 18|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D53p|character device|74 1a|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D5c|character device|74 a|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D5p|character device|74 9|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D6c|character device|74 c|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D6p|character device|74 b|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D7p|character device|74 d|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D8c|character device|74 e|660|u:object_r:audio_device:s0
+/dev/snd/pcmC0D9c|character device|74 f|660|u:object_r:audio_device:s0
+/dev/snd/timer|character device|74 21|660|u:object_r:audio_device:s0
+/dev/block/by-name|directory|0 0|755|u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+/dev/block/dm-0|block device|fd 0|600|u:object_r:dm_device:s0
+/dev/block/dm-1|block device|fd 1|600|u:object_r:dm_device:s0
+/dev/block/dm-2|block device|fd 2|600|u:object_r:dm_device:s0
+/dev/block/dm-3|block device|fd 3|600|u:object_r:dm_device:s0
+/dev/block/loop0|block device|7 0|600|u:object_r:loop_device:s0
+/dev/block/loop1|block device|7 1|600|u:object_r:loop_device:s0
+/dev/block/loop10|block device|7 a|600|u:object_r:loop_device:s0
+/dev/block/loop11|block device|7 b|600|u:object_r:loop_device:s0
+/dev/block/loop12|block device|7 c|600|u:object_r:loop_device:s0
+/dev/block/loop13|block device|7 d|600|u:object_r:loop_device:s0
+/dev/block/loop14|block device|7 e|600|u:object_r:loop_device:s0
+/dev/block/loop15|block device|7 f|600|u:object_r:loop_device:s0
+/dev/block/loop2|block device|7 2|600|u:object_r:loop_device:s0
+/dev/block/loop3|block device|7 3|600|u:object_r:loop_device:s0
+/dev/block/loop4|block device|7 4|600|u:object_r:loop_device:s0
+/dev/block/loop5|block device|7 5|600|u:object_r:loop_device:s0
+/dev/block/loop6|block device|7 6|600|u:object_r:loop_device:s0
+/dev/block/loop7|block device|7 7|600|u:object_r:loop_device:s0
+/dev/block/loop8|block device|7 8|600|u:object_r:loop_device:s0
+/dev/block/loop9|block device|7 9|600|u:object_r:loop_device:s0
+/dev/block/mapper|directory|0 0|755|u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+u:object_r:block_device:s0
+/dev/block/mmcblk0|block device|b3 0|600|u:object_r:block_device:s0
+/dev/block/mmcblk0boot0|block device|b3 8|600|u:object_r:block_device:s0
+/dev/block/mmcblk0boot1|block device|b3 10|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p1|block device|b3 1|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p10|block device|103 3|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p11|block device|103 4|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p12|block device|103 5|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p13|block device|103 6|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p14|block device|103 7|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p15|block device|103 8|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p16|block device|103 9|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p17|block device|103 a|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p18|block device|103 b|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p19|block device|103 c|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p2|block device|b3 2|660|u:object_r:block_device:s0
+/dev/block/mmcblk0p20|block device|103 d|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p21|block device|103 e|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p22|block device|103 f|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p23|block device|103 10|660|u:object_r:block_device:s0
+/dev/block/mmcblk0p24|block device|103 11|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p25|block device|103 12|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p26|block device|103 13|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p27|block device|103 14|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p28|block device|103 15|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p29|block device|103 16|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p3|block device|b3 3|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p30|block device|103 17|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p31|block device|103 18|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p32|block device|103 19|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p33|block device|103 1a|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p34|block device|103 1b|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p35|block device|103 1c|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p36|block device|103 1d|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p37|block device|103 1e|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p38|block device|103 1f|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p39|block device|103 20|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p4|block device|b3 4|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p40|block device|103 21|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p41|block device|103 22|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p42|block device|103 23|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p43|block device|103 24|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p44|block device|103 25|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p45|block device|103 26|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p46|block device|103 27|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p47|block device|103 28|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p48|block device|103 29|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p49|block device|103 2a|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p5|block device|b3 5|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p50|block device|103 2b|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p51|block device|103 2c|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p52|block device|103 2d|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p53|block device|103 2e|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p54|block device|103 2f|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p55|block device|103 30|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p56|block device|103 31|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p57|block device|103 32|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p58|block device|103 33|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p59|block device|103 34|660|u:object_r:block_device:s0
+/dev/block/mmcblk0p6|block device|b3 6|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p60|block device|103 35|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p61|block device|103 36|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p62|block device|103 37|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p63|block device|103 38|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p64|block device|103 39|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p65|block device|103 3a|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p66|block device|103 3b|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p67|block device|103 3c|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p68|block device|103 3d|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p69|block device|103 3e|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p7|block device|b3 7|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p70|block device|103 3f|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p71|block device|103 40|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p72|block device|103 41|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p73|block device|103 42|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p74|block device|103 43|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p75|block device|103 44|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p76|block device|103 45|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p8|block device|103 1|600|u:object_r:block_device:s0
+/dev/block/mmcblk0p9|block device|103 2|600|u:object_r:block_device:s0
+/dev/block/mmcblk1|block device|b3 18|600|u:object_r:block_device:s0
+/dev/block/mmcblk1p1|block device|b3 19|600|u:object_r:block_device:s0
+/dev/block/platform|directory|0 0|755|u:object_r:block_device:s0
+u:object_r:block_device:s0
+/dev/block/pmem0|block device|103 0|600|u:object_r:block_device:s0
+/dev/block/ram0|block device|1 0|600|u:object_r:ram_device:s0
+/dev/block/ram1|block device|1 1|600|u:object_r:ram_device:s0
+/dev/block/ram10|block device|1 a|600|u:object_r:ram_device:s0
+/dev/block/ram11|block device|1 b|600|u:object_r:ram_device:s0
+/dev/block/ram12|block device|1 c|600|u:object_r:ram_device:s0
+/dev/block/ram13|block device|1 d|600|u:object_r:ram_device:s0
+/dev/block/ram14|block device|1 e|600|u:object_r:ram_device:s0
+/dev/block/ram15|block device|1 f|600|u:object_r:ram_device:s0
+/dev/block/ram2|block device|1 2|600|u:object_r:ram_device:s0
+/dev/block/ram3|block device|1 3|600|u:object_r:ram_device:s0
+/dev/block/ram4|block device|1 4|600|u:object_r:ram_device:s0
+/dev/block/ram5|block device|1 5|600|u:object_r:ram_device:s0
+/dev/block/ram6|block device|1 6|600|u:object_r:ram_device:s0
+/dev/block/ram7|block device|1 7|600|u:object_r:ram_device:s0
+/dev/block/ram8|block device|1 8|600|u:object_r:ram_device:s0
+/dev/block/ram9|block device|1 9|600|u:object_r:ram_device:s0
+/dev/block/zram0|block device|fe 0|600|u:object_r:ram_device:s0
+/dev/input/event0|character device|d 40|660|u:object_r:input_device:s0
+/dev/input/event1|character device|d 41|660|u:object_r:input_device:s0
+/dev/input/event2|character device|d 42|660|u:object_r:input_device:s0
+/dev/input/event3|character device|d 43|660|u:object_r:input_device:s0
+/dev/input/event4|character device|d 44|660|u:object_r:input_device:s0
+/dev/input/mice|character device|d 3f|660|u:object_r:input_device:s0
+/dev/binder|symbolic link|0 0|777|u:object_r:binder_device:s0
+/dev/hwbinder|symbolic link|0 0|777|u:object_r:hwbinder_device:s0
+/dev/vndbinder|symbolic link|0 0|777|u:object_r:vndbinder_device:s0
+/dev/ashmem|character device|a 2b|666|u:object_r:ashmem_device:s0
+/dev/null|character device|1 3|666|u:object_r:null_device:s0
+/dev/zero|character device|1 5|666|u:object_r:zero_device:s0
+/dev/random|character device|1 8|666|u:object_r:random_device:s0
+/dev/urandom|character device|1 9|666|u:object_r:random_device:s0
+/dev/kmsg|character device|1 b|600|u:object_r:kmsg_device:s0
+/dev/ion|character device|a 3f|600|u:object_r:ion_device:s0

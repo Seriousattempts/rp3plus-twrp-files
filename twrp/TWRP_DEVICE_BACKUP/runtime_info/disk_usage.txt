@@ -1,0 +1,12 @@
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 1.7G  708K  1.7G   1% /dev
+tmpfs                 1.7G     0  1.7G   0% /mnt
+tmpfs                 1.7G     0  1.7G   0% /apex
+tmpfs                 1.7G  4.0K  1.7G   1% /linkerconfig
+tmpfs                 1.7G  103M  1.6G   6% /tmp
+/dev/block/loop0      232K   92K  140K  40% /apex/com.android.cts.shim
+/dev/block/loop1      844K  816K   28K  97% /apex/com.google.android.tzdata2
+/dev/block/loop2       83M   83M   28K 100% /apex/com.android.art.release
+/dev/block/loop3       18M   18M   28K 100% /apex/com.google.android.media.swcodec
+/dev/block/mmcblk0p76 510M  114M  396M  23% /data
+/dev/block/mmcblk1p1  239G  704K  239G   1% /external_sd

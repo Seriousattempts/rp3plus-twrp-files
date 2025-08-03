@@ -1,0 +1,10 @@
+=== System Devices ===
+/dev/binder|symbolic link|0 0|777|u:object_r:binder_device:s0
+/dev/hwbinder|symbolic link|0 0|777|u:object_r:hwbinder_device:s0
+/dev/vndbinder|symbolic link|0 0|777|u:object_r:vndbinder_device:s0
+/dev/ashmem|character device|a 2b|666|u:object_r:ashmem_device:s0
+/dev/null|character device|1 3|666|u:object_r:null_device:s0
+/dev/zero|character device|1 5|666|u:object_r:zero_device:s0
+/dev/random|character device|1 8|666|u:object_r:random_device:s0
+/dev/urandom|character device|1 9|666|u:object_r:random_device:s0
+/dev/kmsg|character device|1 b|600|u:object_r:kmsg_device:s0

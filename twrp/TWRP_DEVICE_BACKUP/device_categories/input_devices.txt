@@ -1,0 +1,7 @@
+=== Input Devices ===
+/dev/input/event0|character device|d 40|660|u:object_r:input_device:s0
+/dev/input/event1|character device|d 41|660|u:object_r:input_device:s0
+/dev/input/event2|character device|d 42|660|u:object_r:input_device:s0
+/dev/input/event3|character device|d 43|660|u:object_r:input_device:s0
+/dev/input/event4|character device|d 44|660|u:object_r:input_device:s0
+/dev/input/mice|character device|d 3f|660|u:object_r:input_device:s0
